@@ -1,1 +1,1 @@
-# Hello
+# Hello, Syno JS codes repo
